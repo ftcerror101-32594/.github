@@ -1,4 +1,4 @@
-# ⚙️ FTC Error 101 (#32594)
+# <img width="32" height="32" alt="image" src="https://github.com/user-attachments/assets/34bff2c5-b089-45ce-86f6-e8453360d65a" /> FTC Error 101 (#32594)
 Welcome to the official repository for Error 101 (#32594), a FIRST Tech Challenge (FTC) team based in Clifton Park, NY!
 
 We are a group of nine students from Shenendehowa High School united by a passion for innovation, technical excellence, and the principles of the FIRST Core Values. Our team brings together a diverse set of skills spanning software architecture, mechanical engineering, CAD design, and community outreach.
@@ -17,9 +17,5 @@ Contact: ftcerror101@gmail.com <br>
 Location: Clifton Park, NY (Shenendehowa High School) <br>
 Website: https://ftcerror101.com <br>
 
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/34bff2c5-b089-45ce-86f6-e8453360d65a" />
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/2830cb49-33c4-4ca1-b9d0-e0bd905faff6" /> 
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/b2d03421-de0a-441d-a60d-839cded6080b" />
-<img width="48" height="48" alt="image" src="https://github.com/user-attachments/assets/a3e8f71b-74b1-4882-a42e-139d64df690a" />
-<img width="80.1553398058" height="48" alt="image" src="https://github.com/user-attachments/assets/81aad814-16da-4217-b8ba-3b2544cb059a" />
-
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/281085f6-335f-4c00-8c43-2f74b73f98aa" />
+<img width="64" height="64" alt="image" src="https://github.com/user-attachments/assets/ae87766a-a323-4918-8d2e-564cd7d7f4e0" />
