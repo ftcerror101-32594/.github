@@ -11,8 +11,7 @@ In our debut season, we hit the ground running and achieved incredible milestone
 * Alliance Captains: Earned the position of Alliance Captain at the Corning, NY Qualifier.
 ## 🤝 Acknowledgments
 A massive thank you to the FIRST Excelsior community! The guidance, mentorship, and support shared by fellow teams and organizers throughout our inaugural season played a pivotal role in our growth and achievements.
-
-### 📬 Connect With Us
+## 📬 Connect With Us
 Contact: ftcerror101@gmail.com <br>
 Location: Clifton Park, NY (Shenendehowa High School) <br>
 Website: https://ftcerror101.com <br>
